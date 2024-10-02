@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943913542701",
+    "project_id": "push-notification-15449",
+    "storage_bucket": "push-notification-15449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943913542701:android:9e2f3af9381fdde17504a4",
+        "android_client_info": {
+          "package_name": "com.petra.push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjD2no-y8lk_FUHligJVTYhA6o9z-APbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
